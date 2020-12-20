@@ -5,7 +5,7 @@
 
 * Task-2:
 # [Predict the optimum number of clusters and represent it visually.](https://github.com/uttamgrade/The_Spark_Foundation.git)
-![](https://github.com/uttamgrade/Uttam_Portfolio/blob/main/images/Task2_Image.png)
+![](/images/Task2_Image.png)
 
 * Task-3:
 # [Create the Decision Tree classifier and visualize it graphically.](https://github.com/uttamgrade/The_Spark_Foundation.git) 
