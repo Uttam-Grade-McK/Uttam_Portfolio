@@ -4,7 +4,7 @@
 # [Predict the percentage of an student based on the number of study hours](https://github.com/uttamgrade/The_Spark_Foundation.git) 
 
 * Task-2:
-# [From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.](https://github.com/uttamgrade/The_Spark_Foundation.git)
+# [Predict the optimum number of clusters and represent it visually.](https://github.com/uttamgrade/The_Spark_Foundation.git)
 
 
 * Task-3:
