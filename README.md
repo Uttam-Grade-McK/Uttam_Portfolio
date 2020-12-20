@@ -14,3 +14,4 @@
 * In the model with criterion gini index, the training-set accuracy score is 0.9524 while the test-set accuracy to be 0.9778. These two values are quite comparable. So, there is no sign of overfitting.
 
 * In both the cases, the training-set and test-set accuracy score is the same. It may happen because of small dataset. The confusion matrix and classification report yields very good model performance.
+![](/images/Task3_Gini_Index.png)
